@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GridViewAndroid</string>
+
+
+    <string-array name="programming_name">
+
+        <item>Dart</item>
+        <item>Fluter</item>
+        <item>Java</item>
+        <item>Java Script</item>
+        <item>Kotlin</item>
+        <item>Php</item>
+        <item>Python</item>
+
+
+    </string-array>
+
+
+    <string name="dart_text">
+        The PHP Hypertext Preprocessor (PHP) is a programming language that allows web\n
+        developers to create dynamic content that interacts with databases.\n
+        PHP is basically used for developing web based software applications.\n
+        This tutorial helps you to build your base with PHP.\n
+
+        Why to Learn PHP?\n\n
+        PHP started out as a small open source project that\n
+        evolved as more and more people found out how useful it was.\n
+        Rasmus Lerdorf unleashed the first version of PHP way back in 1994.\n
+
+        PHP is a MUST for students and working professionals to become a great Software\n
+        Engineer specially when they are working in Web Development Domain.\n
+        I will list down some of the key advantages of learning PHP:\n
+
+        PHP is a recursive acronym for "PHP: Hypertext Preprocessor".\n\n
+    </string>
+
+</resources>
